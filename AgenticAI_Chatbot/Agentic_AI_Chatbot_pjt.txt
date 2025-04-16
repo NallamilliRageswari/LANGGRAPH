@@ -1,0 +1,12 @@
+Chatbot with langraph + agentic Tools (multiple tools) 
+MCP(model context protocol)
+React Architecture [Reasoning + Act]
+
+
+Workflow [Chatbto + Workflow]
+ start
+ AI assistabt --> tools(Arxiv, wikipedia & Internet search tool)
+ End
+
+Tool node (which helps to integrate with tools)
+React Architecture: When Ai assistant getting input it is asking tools for output.
